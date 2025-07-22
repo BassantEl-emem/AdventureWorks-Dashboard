@@ -86,9 +86,5 @@ Explore the full interactive report on Power BI Service:
 🔗 **[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTQ2ZDY1N2QtZjc5OC00MmFmLTgwZDAtNTEwNDkyNWIwOTQ1IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)**  
 *(Best viewed on desktop for full interactivity)*
 
----
 
-## 📬 Contact
-
-For feedback, questions, or collaboration, feel free to connect with me on GitHub or LinkedIn.
 
